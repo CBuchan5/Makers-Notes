@@ -1,0 +1,3 @@
+- console.log(stuff here) prints to the console and is the same as Ruby print 
+- // ‘this is the same as commenting out in Ruby and this is used for single line
+- /* stuff here */ is for more than one line
